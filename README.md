@@ -1,2 +1,1 @@
-# Mystery-Vault
-Open CMS in PHP
+# Mystery Vault
