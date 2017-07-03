@@ -1,2 +1,2 @@
 # Mystery Vault
-PHP
+CMS web site based on MVC pattern
